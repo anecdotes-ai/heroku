@@ -1,0 +1,4 @@
+release:
+  image: worker
+  command:
+    - ./dummy-build.sh
